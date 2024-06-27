@@ -111,7 +111,9 @@ public class LoginGUI extends JFrame {
             //     break;
             // case "Administration":
             //     new AdminDashboard().setVisible(true);
-            //     break;
+            //     break;\
+            //add these functions
+            
         }
         dispose();
     }
